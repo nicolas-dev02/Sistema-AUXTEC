@@ -7,3 +7,7 @@ Desenvolvido por: Nícolas Alves RInaldi.
 Tecnologias utilizadas: HTML5, CSS3, PHP, MYSQL.
 
 Acima também tem um arquivo ensinando a como rodar o projeto.
+
+Em caso de dúvidas entre em contato com alves.nicolasrinaldi@gmail.com
+
+Para acessar o trabalho escrito do projeto: https://ric.cps.sp.gov.br/
